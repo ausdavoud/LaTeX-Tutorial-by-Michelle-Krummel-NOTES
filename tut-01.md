@@ -27,7 +27,7 @@
     It's a new paragraph.
   ```
   
-  # All-Together Equation
+  # All-Together Equation ```${(x+1)}$```
   If part of the equation is written in the next line, it'll move it all to the next line
   Put it into curly brackets 
   
