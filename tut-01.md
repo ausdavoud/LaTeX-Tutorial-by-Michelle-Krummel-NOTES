@@ -40,7 +40,7 @@
   A(x) = x^2+4x+3 gives the area of the rectangle.
   ```
   
-  # Displayed Math Mode \{$$(x+1)$$} vs. In-Line Math Mode $(x+1)$
+  # Displayed Math Mode \$$(x+1)$$ vs. In-Line Math Mode \$(x+1)\$
   Displayed-Math Mode writes the equation at the center of a new line (A(x) = ...).
   Whereas, the In-Line Math Mode continues writing the Mathematical text along the previous sentence in the same line (  (x+1) and ...   ). 
   
