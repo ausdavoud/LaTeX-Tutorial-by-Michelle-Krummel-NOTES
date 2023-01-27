@@ -44,4 +44,4 @@
   Displayed-Math Mode writes the equation at the center of a new line (A(x) = ...).
   Whereas, the In-Line Math Mode continues writing the Mathematical text along the previous sentence in the same line (  (x+1) and ...   ). 
   
-  [image](LINK)
+  ![Displayed-Inline](https://user-images.githubusercontent.com/97347852/215075692-15273773-d293-4c7d-87b5-18099df9c692.png)
